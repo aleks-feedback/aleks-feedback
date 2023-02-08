@@ -16,6 +16,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-090909?style=plastic&logo=CSS3&logoColor=1572B6)
 
 
-Link
+### Follow Me
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=plastic&logo=Telegram&logoColor=1572B6)](https://t.me/zinger_hzan)
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-090909?style=plastic&logo=LinkedIn&logoColor=1572B6)](https://www.linkedin.com/in/aleksei-fedotov-6390ba265/)
 
 Latest or smthing else
