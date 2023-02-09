@@ -1,9 +1,13 @@
+<head>
+  <style>
+   .fig {
+    text-align: center;
+   }
+  </style>
+ </head>
+ <p class="fig"><img src="https://github.com/aleks-feedback/aleks-feedback/blob/main/assets/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966.gif" 
+   width="320" height="181" alt="Welcome"></p>
 
-
-<img src="https://github.com/aleks-feedback/aleks-feedback/blob/main/assets/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966.gif" width="600" height="400"
-left="300" 
-  alt="Welcome" 
-  vspace="5" hspace="5">
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'am+a+beginner+QA+Engineer)](https://git.io/typing-svg)
 
