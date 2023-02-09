@@ -1,12 +1,14 @@
 <head>
   <style>
    .fig {
-    text-align: center;
+    text-align: center;  
    }
   </style>
  </head>
- <p class="fig"><img src="https://github.com/aleks-feedback/aleks-feedback/blob/main/assets/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966.gif" 
+ <body>
+  <p class="fig"><img src="https://github.com/aleks-feedback/aleks-feedback/blob/main/assets/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966.gif" 
    width="320" height="181" alt="Welcome"></p>
+ </body>
 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'am+a+beginner+QA+Engineer)](https://git.io/typing-svg)
@@ -25,14 +27,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-090909?style=plastic&logo=CSS3&logoColor=1572B6)
 
 ## Testing Documentation
-* [![Checklist](https://img.shields.io)](https://t.me/zinger_hzan)
-* [![Test-Suites and Test-Cases](https://img.shields.io)](url)
-* [![Bug report](https://img.shields.io)](url)
-* [![SQL Queries](https://img.shields.io)](url)
-* [![Postman Collections](https://img.shields.io)](url)
+* <a>[Checklist](https://t.me/zinger_hzan)</a>
+* <a>[Test-Suites and Test-Cases](url)</a>
+* <a>[Bug report](url)</a>
+* <a>[SQL Queries](url)</a>
+* <a>[Postman Collections](url)</a>
 
 ## My CV
-[![Link to my CV](https://img.shields.io)](url)
+<a>[Link to my CV](url)</a>
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=plastic&logo=Telegram&logoColor=1572B6)](https://t.me/zinger_hzan)
