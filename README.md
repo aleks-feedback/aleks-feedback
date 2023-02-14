@@ -25,6 +25,7 @@
 * <a>[Bug report](url)</a>
 * <a>[SQL Queries](url)</a>
 * <a>[Postman Collections](url)</a>
+* <a>[Python](url)</a>
 
 ## My CV
 <a>[Link to my CV](url)</a>
