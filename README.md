@@ -20,9 +20,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-090909?style=plastic&logo=CSS3&logoColor=1572B6)
 
 ## Testing Documentation
-* <a>[Checklist](https://github.com/aleks-feedback/Checklist)</a>
-* <a>[Test-Suites and Test-Cases](https://github.com/aleks-feedback/Test-case)</a>
-* <a>[Bug report](url)</a>
+* <a>[Checklists](https://github.com/aleks-feedback/Checklist)</a>
+* <a>Test-Cases](https://github.com/aleks-feedback/Test-case)</a>
+* <a>[Bug reports](https://github.com/aleks-feedback/bag-report)</a>
 * <a>[SQL Queries](url)</a>
 * <a>[Postman Collections](url)</a>
 * <a>[Python](url)</a>
