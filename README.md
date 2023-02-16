@@ -24,7 +24,7 @@
 * <a>[Test-Cases](https://github.com/aleks-feedback/Test-case)</a>
 * <a>[Bug reports](https://github.com/aleks-feedback/bag-report)</a>
 * <a>[SQL Queries](https://github.com/aleks-feedback/SQL)</a>
-* <a>[Postman Collections](url)</a>
+* <a>[Postman Collections](https://github.com/aleks-feedback/Postman-Collections)</a>
 * <a>[Python](url)</a>
 
 ## My CV
