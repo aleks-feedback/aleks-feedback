@@ -20,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-090909?style=plastic&logo=CSS3&logoColor=1572B6)
 
 ## Testing Documentation
-* <a>[Checklist](https://t.me/zinger_hzan)</a>
+* <a>[Checklist]()</a>
 * <a>[Test-Suites and Test-Cases](url)</a>
 * <a>[Bug report](url)</a>
 * <a>[SQL Queries](url)</a>
@@ -28,7 +28,7 @@
 * <a>[Python](url)</a>
 
 ## My CV
-<a>[Link to my CV](url)</a>
+<a>[Link to my CV](https://www.linkedin.com/in/aleks-feedback/details/featured/1635517297634/single-media-viewer/?profileId=ACoAAED6Eg0B0Ql_6e_yz8CYg5v8uPHPUnnL0x8)</a>
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=plastic&logo=Telegram&logoColor=F2F2F2)](https://t.me/zinger_hzan)
