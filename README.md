@@ -25,7 +25,7 @@
 * <a>[Bug reports](https://github.com/aleks-feedback/bag-report)</a>
 * <a>[SQL Queries](https://github.com/aleks-feedback/SQL)</a>
 * <a>[Postman Collections](https://github.com/aleks-feedback/Postman-Collections)</a>
-* <a>[Python](url)</a>
+* <a>[Python](https://github.com/aleks-feedback/Python)</a>
 
 ## My CV
 <a>[Link to my CV](https://www.linkedin.com/in/aleks-feedback/overlay/1635517304354/single-media-viewer/?profileId=ACoAAED6Eg0B0Ql_6e_yz8CYg5v8uPHPUnnL0x8)</a>
