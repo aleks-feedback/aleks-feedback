@@ -21,9 +21,9 @@
 
 ## Testing Documentation
 * <a>[Checklists](https://github.com/aleks-feedback/Checklist)</a>
-* <a>Test-Cases](https://github.com/aleks-feedback/Test-case)</a>
+* <a>[Test-Cases](https://github.com/aleks-feedback/Test-case)</a>
 * <a>[Bug reports](https://github.com/aleks-feedback/bag-report)</a>
-* <a>[SQL Queries](url)</a>
+* <a>[SQL Queries](https://github.com/aleks-feedback/SQL)</a>
 * <a>[Postman Collections](url)</a>
 * <a>[Python](url)</a>
 
