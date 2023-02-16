@@ -28,7 +28,7 @@
 * <a>[Python](url)</a>
 
 ## My CV
-<a>[Link to my CV](https://www.linkedin.com/in/aleks-feedback/details/featured/1635517297634/single-media-viewer/?profileId=ACoAAED6Eg0B0Ql_6e_yz8CYg5v8uPHPUnnL0x8)</a>
+<a>[Link to my CV](https://www.linkedin.com/in/aleks-feedback/overlay/1635517304354/single-media-viewer/?profileId=ACoAAED6Eg0B0Ql_6e_yz8CYg5v8uPHPUnnL0x8)</a>
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=plastic&logo=Telegram&logoColor=F2F2F2)](https://t.me/zinger_hzan)
