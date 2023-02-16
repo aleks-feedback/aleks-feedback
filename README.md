@@ -20,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-090909?style=plastic&logo=CSS3&logoColor=1572B6)
 
 ## Testing Documentation
-* ![Checklist](https://github.com/aleks-feedback/Checklist)
+* <a>[Checklist](https://github.com/aleks-feedback/Checklist)</a>
 * <a>[Test-Suites and Test-Cases](url)</a>
 * <a>[Bug report](url)</a>
 * <a>[SQL Queries](url)</a>
